@@ -3,6 +3,12 @@
 /node_modules
 package-lock.json
 
+#prisma
+/prisma/.env
+/prisma/.env.*
+/prisma/migrations/
+/prisma/schema.prisma
+
 # Logs
 logs
 *.log
